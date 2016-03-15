@@ -1,5 +1,5 @@
 # Smashboards-CSM
-Smashboards Community Symbol Map for Melee. Topic: http://smashboards.com/threads/smashboards-community-symbol-map/
+Smashboards Community Symbol Map for Melee. Topic: http://smashboards.com/threads/smashboards-community-symbol-map.426763/
 
 Hey! I'm Absolome and this is the Smashboards Community Symbol Map. In short, it's a project attempting to combine the knowlege of modders and tinkerers of Super Smash Brothers Melee. 
 
