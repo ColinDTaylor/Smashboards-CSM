@@ -8,3 +8,5 @@ Melee's source code is lost so all we have to work with in terms of the game's c
 Feel free to contribute! Just fork this repository and send a pull request when you're done editing whatever it is you'd like to edit in.
 
 GALE01.map is the file you'll want to edit, for more information, look at the Smashboards topic
+
+You can use the included .py file (csm-update) to automatically merge your current symbol map with the csm. Follow the instructions written into the .py comments and message me (Absolome) on smashboards if you need help. Make sure to back up your old map! csm-update shouldn't mess with it at all outside of reading it but it can't hurt to be cautious
